@@ -2,8 +2,8 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-    border-top:  solid 1px #f0f0f0;
-    background-color: transparent;
+    color: #f0f0f0;
+    background-color: #171717;
     padding: 0.5rem;
     font-size: 1rem;
 }

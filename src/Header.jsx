@@ -7,7 +7,7 @@ export function Header() {
   return (
    <header className={style.header}>
     <nav>
-      <h1>Formulario</h1>
+      <h1>Mensagens</h1>
     </nav>
    </header>
   )
